@@ -1,0 +1,5 @@
+// Program to demonstrate the recursive function
+#include <iostream>
+using namespace std;
+
+void write_vertical(int n)
